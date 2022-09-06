@@ -1,0 +1,146 @@
+[
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:02"	
+	},
+	"payload" : {
+		"partyId":"PO4000000001",
+		"ultimateParentPartyId":"PO4000000001",
+		"parentPartyId": "PO4000000001",
+		"legalName":"Group",
+		"tradingName" : "Group Example",
+		"boardingStatus" : "trading-live",
+		"mids" : null
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:05"	
+	},
+	"payload" : {
+		"partyId":"PO4000000002",
+		"ultimateParentPartyId":"PO4000000001",
+		"parentPartyId": "PO4000000001",
+		"legalName":"Company",
+		"tradingName" : "Company Example",
+		"boardingStatus" : "trading-live",
+		"mids" : null
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:09"	
+	},
+	"payload" : {
+		"partyId":"PO4000000003",
+		"ultimateParentPartyId":"PO4000000001",
+		"parentPartyId": "PO4000000002",
+		"legalName":"Outlet 1",
+		"tradingName" : "Outlet 1 Example",
+		"boardingStatus" : "trading-live",
+		"mids" : ["65349103"]
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:07"	
+	},
+	"payload" : {
+		"partyId":"PO4000000004",
+		"ultimateParentPartyId":"PO4000000001",
+		"parentPartyId": "PO4000000002",
+		"legalName":"Outlet 2",
+		"tradingName" : "Outlet 2 Example",
+		"boardingStatus" : "trading-live",
+		"mids" : ["49001829"]
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:02"	
+	},
+	"payload" : {
+		"partyId":"PO4000000005",
+		"ultimateParentPartyId":"PO4000000005",
+		"parentPartyId": "PO4000000005",
+		"legalName":"Group",
+		"tradingName" : "Group Example",
+		"boardingStatus" : "trading-live",
+		"mids" : null
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:05"	
+	},
+	"payload" : {
+		"partyId":"PO4000000006",
+		"ultimateParentPartyId":"PO4000000005",
+		"parentPartyId": "PO4000000005",
+		"legalName":"Company",
+		"tradingName" : "Company Example",
+		"boardingStatus" : "trading-live",
+		"mids" : null
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:09"	
+	},
+	"payload" : {
+		"partyId":"PO4000000007",
+		"ultimateParentPartyId":"PO4000000005",
+		"parentPartyId": "PO4000000006",
+		"legalName":"Outlet 1",
+		"tradingName" : "Outlet 1 Example",
+		"boardingStatus" : "trading-live",
+		"mids" : ["65349103"]
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:05"	
+	},
+	"payload" : {
+		"partyId":"PO4000000008",
+		"ultimateParentPartyId":"PO4000000005",
+		"parentPartyId": "PO4000000005",
+		"legalName":"Company",
+		"tradingName" : "Company Example",
+		"boardingStatus" : "trading-live",
+		"mids" : null
+	}
+},
+{
+	"meta": {
+		"category" : "event",
+		"version" : "1.0",
+		"occurred_at": "2022-08-24T15:51:09"	
+	},
+	"payload" : {
+		"partyId":"PO4000000009",
+		"ultimateParentPartyId":"PO4000000005",
+		"parentPartyId": "PO4000000008",
+		"legalName":"Outlet 1",
+		"tradingName" : "Outlet 1 Example",
+		"boardingStatus" : "trading-live",
+		"mids" : ["65349103"]
+	}
+}
+]
